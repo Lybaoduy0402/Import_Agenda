@@ -1,4 +1,4 @@
-#Import Agenda
+# Import Agenda
 This program imports the schedule of an event into a local SQLite database.
 
 To complete this task, you will need to:

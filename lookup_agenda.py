@@ -1,7 +1,7 @@
 import sys
 
 import db_table
-from DataModel import Session, Speaker
+from Tables import Session, Speaker
 
 col = sys.argv[1]
 if col == 'Room':

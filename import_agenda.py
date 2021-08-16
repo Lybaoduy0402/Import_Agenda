@@ -2,7 +2,7 @@ import sys
 import xlrd
 
 import db_table
-from DataModel import Session, Speaker
+from Tables import Session, Speaker
 
 import_agenda = xlrd.open_workbook(sys.argv[1])
 sheet = import_agenda.sheet_by_index(0)

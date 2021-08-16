@@ -9,11 +9,6 @@ To complete this task, you will need to:
 We should be able to run your program as follow:
 $> ./import_agenda.py agenda.xls
 
-Please note:
-* The input file will always follow the same format as the one provided in this repository.
-* We do not expect any specific output.
-
-
 ### Lookup Agenda
 This program finds agenda sessions in the data you imported.
 
